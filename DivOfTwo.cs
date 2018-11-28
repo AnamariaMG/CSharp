@@ -13,8 +13,10 @@ namespace Divide
             // Exercise 3 ---- https://www.w3resource.com/
             // Divide two numbers
 
+            // Direct division of two numbers
             //Console.WriteLine(18 / 4);
 
+            // Division of two numbers given by the user
             Console.Write("Give a = ");
             int a = System.Int32.Parse(Console.ReadLine());
 
